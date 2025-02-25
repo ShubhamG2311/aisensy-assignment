@@ -10,9 +10,10 @@ This is a web-based tool where users can enter URLs, ask questions about the con
 
 ### Installation
 
-1. Unzip the project:
+1. Clone the repository:
     ```bash
-    unzip the zip file
+    git clone https://github.com/ShubhamG2311/aisensy-assignment.git
+    cd aisensy-assignment
     ```
 
 2. Set up the backend:
